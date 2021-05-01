@@ -1,0 +1,75 @@
+IMPORTANT-READ CAREFULLY
+
+END USER LICENSE AGREEMENT FOR NOVALYS® PRODUCTS
+
+YOU MAY USE THIS SOFTWARE PROGRAM ONLY IN ACCORDANCE WITH THIS LICENSE AGREEMENT (UNLESS YOU HAVE A SIGNED LICENSE AGREEMENT WITH NOVALYS OR ONE OF ITS SUBSIDIARIES OR AUTHORIZED RESELLERS COVERING THESE PROGRAMS). 
+
+YOU WILL BE ASKED TO ACCEPT THE APPLICABLE LICENSE AGREEMENT BEFORE YOU CONTINUE TO INSTALL THIS SOFTWARE PROGRAM (UNLESS YOU HAVE A SIGNED LICENSE AGREEMENT WITH NOVALYS OR ONE OF ITS SUBSIDIARIES OR AUTHORIZED RESELLERS COVERING THIS SOFTWARE). YOU INDICATE YOUR ACCEPTANCE OF THIS LICENSE AGREEMENT BY CLICKING "YES" BELOW. IF YOU HAVE ALREADY SIGNED A LICENSE AGREEMENT COVERING THIS SOFTWARE, YOU SHOULD ALSO CLICK "YES" BELOW, BUT THE APPLICABLE LICENSE TERMS SHALL REMAIN THOSE SET FORTH IN AN EXISTING SIGNED LICENSE AGREEMENT COVERING THIS SOFTWARE AND SHALL NOT BE MODIFIED OR SUPERSEDED BY THESE TERMS. 
+IF YOU DO NOT AGREE WITH THESE TERMS, YOU SHOULD PROMPTLY RETURN THE COMPLETE PACKAGE (INCLUDING ALL PRODUCT CONTENTS) WITH YOUR RECEIPT OR OTHER PROOF OF PURCHASE TO NOVALYS FOR A REFUND.
+
+
+(THIS IS A LICENSE AND NOT A SALE)
+
+PRODUCT SPECIFIC TERMS
+
+1.	DEFINITIONS. 
+A "Seat" is a specific, identifiable, unique accessor of information such as a terminal, PC, single-user workstation, or real-time device. Use of software or hardware which reduces the number of Seats directly accessing the Programs (sometimes called "multiplexing" or "pooling") does not reduce the number of Seats required to be licensed, but rather the number of licensed Seats must include the number of distinct inputs to the multiplexing software or hardware. 
+
+A "Named User" is a specific named person licensed to use a Program. Use of software or hardware which allows multiple Named persons to use a single copy of the software installed on one machine (sometimes called "terminal Server", "Desktop Virtualization" or "virtual Machine") does not reduce the number of Named User licenses required to be licensed, but rather the number of licensed Named User licenses must include the number of distinct Named persons using the Program.
+
+An "Enterprise License"  is the right for the entire population of an entity (employees and on-site contractors) to access and use the Program, without limitation as to the number of Employees who may concurrently access and use the Program. Enterprise License may (or may not) be limited to a specified period of time and a specified list of features. 
+
+The "Programs" means the software programs designated in the accompanying package or your accepted order(s) and supplied together with this license agreement. Although the program media may contain other software products, you are hereby licensed to install and use only such designated Programs.
+
+
+2.	LICENSE. You may use solely for your internal business purposes the enclosed Programs (and accompanying documentation). The Programs may only be used by the number of named user(s) or seat(s) specified on your accepted order(s). The Programs may not be sold, assigned, or otherwise conveyed (whether by operation of law or otherwise) to another party without Novalys's prior written consent. However, the Programs may be transferred on a permanent basis provided you transfer this Agreement, the Programs, and all documentation, retain no copies and the recipient agrees to the terms of this Agreement. If any Program is an update version, any transfer must include the update and all prior versions. THERE MAY BE ADDITIONAL RIGHTS AND RESTRICTIONS SPECIFIC TO CERTAIN PROGRAMS SET FORTH BELOW OR IN "PRODUCT SPECIFIC LICENSE TERMS" CARDS ACCOMPANYING THIS AGREEMENT WHICH ARE HEREBY INCORPORATED INTO THIS AGREEMENT.
+	Distributable Files. By distributing any Distributable Files (as permitted pursuant to any applicable Product Specific License Terms) to third parties, you agree to indemnify, hold harmless, and defend Novalys, its subsidiaries, and suppliers from and against any third-party claims, including court costs and reasonable fees of attorneys and expert witnesses, arising from the use or distribution of your software including the Distributable Files. You shall include Novalys's copyright notice (and the copyright notices of Novalys's suppliers if required by the documentation) on all copies of the Distributable Files.
+
+	Software Documentation. You may not copy any documentation accompanying the Programs.
+
+3.	LIMITED WARRANTY TERM. Thirty (30) days from the date of shipment of the Programs to you.
+
+4.	COPY RESTRICTIONS AND OTHER RESTRICTIONS. You may not copy the Programs except (a) to make a reasonable number of copies for inactive backup or archival purposes, and (b) as specifically authorized in this Agreement. You may make one (1) copy of the written materials and manuals accompanying the Programs ("Documentation") for your own use. You may not modify, reverse engineer, decompile, or disassemble the Programs (except to the extent applicable laws specifically prohibit such restriction and except as specifically permitted in the documentation). If any copy of the Program licensed hereunder includes more than one component program, use of all components of the Program is limited to the same number of Seat(s) or Named User(s). Transfer of a Program outside the country in which it was originally delivered to you is not permitted without Novalys's prior written consent and is subject to compliance with all applicable export restrictions. You may not use the Programs for timesharing, rental, or service bureau purposes.
+
+You shall not remove any copyright notices or other proprietary notices from the Programs and you must reproduce such notices on all copies or extracts of the Programs. Results of benchmark or other performance tests run on the Programs may not be disclosed to any third party without Novalys's prior written consent. Upon reasonable notice to you, Novalys may audit the number of copies of the Programs in use by you and the number of Seats or Named User(s) using the Programs.
+
+
+GENERAL TERMS AND CONDITIONS
+
+5.	COPYRIGHT AND OWNERSHIP. The Programs are owned by Novalys, its subsidiaries, or its suppliers and are protected by copyright laws and international treaty provisions. You acquire only the non-exclusive right to use the Programs as permitted herein and do not acquire any rights of ownership in the Programs.
+
+6.	SUPPORT. This Agreement does not entitle you to any maintenance or new versions of the Programs, which new versions must be separately licensed unless you have purchased a support plan which entitles you to such new versions. Any such new versions licensed shall upon use replace any earlier versions and shall be governed by the terms of this License Agreement. You may purchase support at the rates described in Novalys's then-current price list. If you purchase support for any Program in use on a computer or in a network, you must purchase the same level of support for all copies of such Program in use on such computer or network. Provided that you are then subscribing to support for the Programs, are entitled to maintenance or new versions of thePrograms, and are current in your payment of support fees, you may transfer a Program to a different operating system subject to Novalys transfer policies and payment of all applicable fees, as specified in Novalys's then-current price list.
+
+7.	FEES. The license fees and support fees for the Programs are due and payable before the product is delivered if you have acquired the Programs directly from Novalys; otherwise, such fees are payable in accordance with the reseller's policies. You shall pay all applicable shipping charges, and sales, use, personal property, or similar taxes, tarifs, or governmental charges, exclusive of Novalys's or its reseller's net income and corporate franchise taxes.
+
+8.	TERMINATION. Either party may terminate this Agreement if the other party breaches any of its obligations hereunder and such breach is not cured within thirty (30) days after written notice. Upon termination, you shall cease using the Programs and shall return to Novalys all copies of the Programs and Documentation in any form.
+
+9.	LIMITED WARRANTY. For the period set forth in Section 3 above, Novalys warrants that the Programs, when properly used, will operate in all material respects in conformity with Novalys's published specifications for such version, and the Program media shall be free of defects. In the event of a non-conforming Program or defective media, your sole remedy, at Novalys's option, shall be replacement of the defective Program or a refund of the license fees paid for the affected Program. The Documentation Software is provided AS IS, without any warranty whatsoever. This limited warranty gives you specific legal rights. You may have other rights, which vary among jurisdictions. Some jurisdictions do not allow limitation on the duration of implied warranties so the above limitation may not apply to you.
+
+NOVALYS DISCLAIMS ALL OTHER WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION 
+THE IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABLE QUALITY, NONINFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE, AND WHETHER ARISING BY STATUTE OR IN LAW OR AS A RESULT OF A COURSE OF DEALING OR USAGE OF TRADE, WITH RESPECT TO THE PROGRAMS, DOCUMENTATION, SUPPORT, OR OTHER SERVICES RELATED TO THE PROGRAMS. NO WARRANTY IS MADE REGARDING THE RESULTS OF ANY PROGRAM OR SERVICES OR THAT ALL ERRORS IN THE PROGRAMS WILL BE CORRECTED, OR THAT THE PROGRAMS' FUNCTIONALITY WILL MEET YOUR REQUIREMENTS. YOU ACKNOWLEDGE YOUR RESPONSIBILITY TO (i) REGULARLY BACK UP DATA MAINTAINED ON ANY COMPUTER SYSTEM USING THE PROGRAMS AND (ii) ADEQUATELY TEST PRIOR TO DEPLOYMENT EACH PRODUCTION VERSION OF THE PROGRAMS IN A CONFIGURATION WHICH REASONABLY SIMULATES YOUR PLANNED PRODUCTION ENVIRONMENT. 
+
+10.	LIMITATION ON LIABILITY. NOVALYS'S LICENSORS SHALL NOT BE LIABLE FOR DIRECT DAMAGES, AND NEITHER NOVALYS, ITS SUBSIDIARIES, NOR ANY OF ITS LICENSORS SHALL BE LIABLE FOR ANY LOSS OR INACCURACY OF DATA, LOSS OF PROFITS, OR INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+NOVALYS'S AND ITS SUBSIDIARIES' TOTAL LIABILITY, IF ANY, ARISING OUT OF OR RELATING TO THIS AGREEMENT OR YOUR USE OF THE PROGRAMS OR RELATED SERVICES SHALL NOT EXCEED THE FEES PAID BY YOU FOR THE PROGRAMS OR SERVICE(S) GIVING RISE TO THE CLAIM. THE FOREGOING RESTRICTIONS,DISCLAIMERS, AND LIMITATIONS SHALL APPLY AND REMAIN IN FORCE EVEN IN THE EVENT OF A BREACH BY NOVALYS HEREUNDER OF A CONDITION OR FUNDAMENTAL TERM HEREUNDER, OR IN THE EVENT OF A BREACH WHICH CONSTITUTES A FUNDAMENTAL BREACH. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
+
+11.	HIGH-RISK ACTIVITIES. The Programs are not fault-tolerant and are not designed, manufactured, or intended for use or resale in the online control of nuclear facilities, aircraft navigation or communication systems, air traffic control, direct life support machines, or weapons systems, in which the failure of the Programs could lead directly to death, personal injury, or severe physical or environmental damage ("High-Risk Activities"). Novalys and its suppliers specifically disclaim any express or implied warranty of fitness for High-Risk Activities.
+
+12. 	UNENFORCABILITY. The terms of this Agreement supersede the terms of any purchase order, order letter, or other document issued or signed by you to authorize your license of the Programs. 
+If any provision of this Agreement is held to be unenforceable, such provision shall be limited, modified, or severed as necessary to eliminate its unenforceability, and all other provisions shall remain unaffected. 
+The failure or delay of either party to exercise any of its rights shall not be deemed a waiver thereof and no waiver by either party of any breach of this Agreement shall constitute a waiver of any other or subsequent breach.
+
+13. 	TRANSLATION. The parties have requested that this Agreement and all documents contemplated hereby be drawn up in English. Les parties ont exigé que cet accord et tout autre document envisagé par les présentes soient rédigés en anglais.
+
+
+Copyright (c) 1998-2012 Novalys. All rights reserved. 
+Visual Expert and Visual Guard are owned by Novalys (c) 1998-2012 Novalys.
+Enable, Run-time Explorer, PBProtect is owned by Enable LLC. - Copyright (c) 1998-2012 Enable LLC.
+The WerySoft GUIControls Library is owned by WerySoft Inc. - Copyright (c) 1998-2012 WerySoft Inc.
+All other trademarks are property of their respective owners. 
+Novalys, the Novalys logo, Customization Studio, Visual Expert, Visual Guard, PBProtect, PB Ultimate Suite are trademarks of Novalys.
+All other trademarks are property of their respective owners. 
+
+Specifications are subject to change without notice. 
+
+Novalys End User License Agreement V1.5
